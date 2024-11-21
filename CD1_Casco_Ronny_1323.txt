@@ -1,0 +1,146 @@
+
+
+
+
+
+
+
+
+
+
+Universidad de las Fuerzas Armadas-ESPE
+
+
+Segundo Semestre Carrera de Tecnologías de la Información y la Comunicación 
+
+
+Asignatura de Programación Orientada a Objetos
+
+
+
+
+
+
+Actividad 1 : Informe de Proceso Realizado
+
+
+
+
+
+
+
+
+
+Integrante: 
+1.Ronny Stalyn Casco De La Torre  
+
+
+
+
+Fecha:
+20/11/2024
+
+
+
+
+
+
+
+
+
+Informe actividad 1
+
+Introducción:
+Git es un proyecto de código abierto que se inició en 2005 y creció hasta convertirse en uno de los VCS más populares del mercado: cerca del 87% de los desarrolladores utilizan Git para sus proyectos.
+Se trata de un sistema de control de versiones distribuido. Esto significa que cualquier desarrollador del equipo que tenga acceso puede gestionar el código fuente y su historial de cambios utilizando las herramientas de línea de comandos de Git.
+A diferencia de los sistemas de control de versiones centralizados, Git ofrece ramas de características. Esto significa que cada ingeniero de software en el equipo puede dividir una rama de características que proporcionará un repositorio local aislado para hacer cambios en el código.
+GitHub aloja más de 100 millones de repositorios, la mayoría de los cuales son proyectos de código abierto. Esta estadística revela que GitHub se encuentra entre los clientes Git GUI más populares y es utilizado por varios profesionales y grandes empresas, como Hostinger.
+Esto se debe a que GitHub es una plataforma de gestión y organización de proyectos basada en la nube que incorpora las funciones de control de versiones de Git. Es decir que todos los usuarios de GitHub pueden rastrear y gestionar los cambios que se realizan en el código fuente en tiempo real, a la vez que tienen acceso a todas las demás funciones de Git disponibles en el mismo lugar.
+
+En esta actividad, se solicitó crear un archivo local, subirlo a un repositorio en GitHub mediante línea de comandos, y documentar el proceso.
+
+Desarrollo: 
+Pasos realizados:
+* Se accedió a la carpeta del repositorio clonado localmente, cabe recalcar que para este procedimiento es necesario que tengas una cuenta en GitHub la misma que debe estar enlazada con un repositorio en tu computador.
+
+
+
+
+
+
+
+
+* Se creó un archivo llamado `hola_mundo.txt` con el contenido "Hola Mundo".
+
+
+
+
+
+
+
+
+
+
+
+* Se agregó el archivo al área de preparación de Git con el comando `git add`.
+
+
+
+
+
+
+* Se realizó un commit con un mensaje descriptivo.
+
+
+
+
+
+
+Se debe recalcar que un commit es una función que crea información instantánea de los cambios preparados en un cronograma de un historial de proyectos que sean colaborativos.
+
+* Finalmente, se subió el archivo al repositorio remoto con `git push`.
+
+
+
+
+
+
+
+
+
+
+
+Resultados obtenidos:
+
+El archivo `hola_mundo.txt` fue subido exitosamente al repositorio en GitHub. Puede visualizarse en el enlace que sea compartido, se puede verificar en el repositorio de GitHub.
+
+
+
+
+
+
+
+
+
+
+
+Conclusión:
+Concluimos que esta actividad permitió familiarizarme con el flujo de trabajo básico de Git y GitHub, incluyendo la creación, adición y subida de archivos, dentro de las ventajas de GitHub tenemos: 
+* Almacenar, compartir y trabajar en código 
+* Controlar versiones y administrar cambios en el código 
+* Colaborar en proyectos con otros desde cualquier lugar 
+* Trabajar en equipo de manera eficiente, incluso con equipos distribuidos geográficamente 
+* Automatizar flujos de trabajo 
+* Crear un perfil público para mostrar habilidades y proyectos 
+* Contribuir a proyectos de código abierto 
+* Explorar los recursos de la plataforma para el desarrollo de proyectos
+
+
+
+
+
+      
+
+
+
+
